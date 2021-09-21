@@ -1,0 +1,153 @@
+header{
+    color:orangered;
+    text-align: center;
+}
+
+body{
+    background-color: lightskyblue;
+}
+nav{
+    text-align: center;
+}
+
+.me,.bio,.cont{
+  border-style: solid;
+  border-color: orange;
+  background-color:grey;
+  padding:10px;
+}
+
+a:link{
+   color:orange;
+}
+
+a:hover{
+   color:orangered;
+}
+
+a:focus{
+   color:red
+}
+
+main{
+   border-style: solid;
+   border-color: orange;
+   background-color:grey;
+   margin-left: 100px;
+   margin-right: 100px;
+   margin-top:100px;
+}
+
+
+footer{
+   text-align:center;
+   border-style:solid;
+   border-color: orange;
+   background-color:grey;
+   float:none;
+   margin-left: 100px;
+   margin-right: 100px;
+}
+img{
+ 
+ float: left;
+ margin-left: 100px;
+
+
+}
+
+
+h2{
+font-family: Verdana, Tahoma, sans-serif !important;
+text-align: center;
+}
+
+p{
+font-family:"Times New Roman",Arial,sans-serif !important;
+text-align: center;
+
+
+}
+
+
+
+
+
+.edu{
+    border-style: solid;
+    border-color: orange;
+    background-color:grey;
+    border-radius:12px;
+
+ 
+}
+.Projects{
+    border-style: solid;
+    border-color: orange;
+    background-color:grey;
+    border-radius:12px;
+}
+.certificates{
+    border-style: solid;
+    border-color: orange;
+    background-color:grey;
+    border-radius:12px;
+}
+
+#biothings{
+   width: 800px;
+   padding:20px;
+   margin-top: 50px;
+   margin-left: 550px;
+   border-style: solid;
+   border-color: orange;
+   background-color:grey;
+
+
+}
+
+.progr{
+    float: left;
+    margin-right: 100px;
+   
+  
+  }
+
+  #box{
+    width: 800px;
+
+    margin-top: 50px;
+    margin-left: 600px;
+    border-style: solid;
+    border-color: orange;
+    background-color:grey;
+
+  }
+  .first{
+      text-align: center;;
+    border-style: solid;
+    border-color: orange;
+    background-color:grey;
+    border-radius:12px;
+
+  }
+  .second{
+    text-align: center;;
+    border-style: solid;
+    border-color: orange;
+    background-color:grey;
+    border-radius:12px;
+
+  }
+
+  .email{
+    margin-left: 200px;
+    margin-top:50px;
+   
+    float: left;
+    
+
+  }
+
+
+
